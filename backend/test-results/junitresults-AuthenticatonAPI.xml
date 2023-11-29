@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="5" time="0.585">
+ <testsuite name="Authenticaton API" timestamp="2023-11-15T00:03:45" hostname="localhost" time="0.585" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="Authenticaton API" name="should register a new user" time="0.381" />
+  <testcase classname="Authenticaton API" name="should login a user" time="0.062" />
+  <testcase classname="Authenticaton API" name="should update the headline for a user" time="0.086" />
+  <testcase classname="Authenticaton API" name="should fetch the headline for a user" time="0.052" />
+  <testcase classname="Authenticaton API" name="should logout a user" time="0.003" />
+ </testsuite>
+</testsuites>

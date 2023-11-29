@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="6" time="0.801">
+ <testsuite name="Article API" timestamp="2023-11-15T00:03:46" hostname="localhost" time="0.801" errors="0" tests="6" skipped="0" disabled="0" failures="0">
+  <testcase classname="Article API" name="should login a user before testing Article API" time="0.052" />
+  <testcase classname="Article API" name="should post a new article" time="0.253" />
+  <testcase classname="Article API" name="should get an article by ID" time="0.056" />
+  <testcase classname="Article API" name="should get all articles for the logged-in user" time="0.059" />
+  <testcase classname="Article API" name="should update an article text" time="0.174" />
+  <testcase classname="Article API" name="should add a comment to an article" time="0.205" />
+ </testsuite>
+</testsuites>
